@@ -48,7 +48,15 @@ Some EMS spaces may have additional rules in place, which will be made clearly a
 
 ## Reporting ##
 
-If you are being harassed by a member of EMS, notice that someone else is being harassed, or have any other concerns, please contact [@cate](https://eng-managers.slack.com/team/cate), [@steveb](https://eng-managers.slack.com/team/steveb), [@jeanhsu](https://eng-managers.slack.com/team/jeanhsu), [@marc](https://eng-managers.slack.com/team/marc), or [@ichthyos](https://eng-managers.slack.com/team/ichthyos) directly via DM.
+If you are being harassed by a member of EMS, notice that someone else is being harassed, or have any other concerns, please contact one of the following members of the admin team directly by DM.
+- [@cate](https://eng-managers.slack.com/team/cate)
+- [@steveb](https://eng-managers.slack.com/team/steveb)
+- [@jeanhsu](https://eng-managers.slack.com/team/jeanhsu)
+- [@marc](https://eng-managers.slack.com/team/marc)
+- [@ichthyos](https://eng-managers.slack.com/team/ichthyos)
+- [@buritica](https://eng-managers.slack.com/team/buritica)
+- [@ericajoy](https://eng-managers.slack.com/team/ericajoy)
+- [@pam](https://eng-managers.slack.com/team/pam)
 
 This code of conduct applies to EMS spaces, but if you are being harassed by a member of EMS outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by EMS members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from EMS based on their past behavior, including behavior outside EMS spaces and behavior towards people who are not in EMS.
 
