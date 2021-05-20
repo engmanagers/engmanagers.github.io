@@ -71,7 +71,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all EMS spaces and identification of the participant as a harasser to other EMS members or the general public.
 
 ## Advertising
-EMS is run by a team of dedicated admins for the enjoyment and benefit of its members. Our admins give up their own time to foster and develop the community and as such we aim to keep the community an advertising-free zone. We take a firm stance on members posting advertisements of any kind in the community and we reserve the right to remove posts which fall afoul of this rule. The poster will be informed and persistant offenders will be removed from the Slack team. 
+EMS is run by a team of dedicated admins for the enjoyment and benefit of its members. Our admins give up their own time to foster and develop the community and as such we aim to keep the community an advertising-free zone. We take a firm stance on members posting advertisements of any kind in the community and we reserve the right to remove posts which fall afoul of this rule. The poster will be informed and persistent offenders will be removed from the Slack team. 
 
 ## Recruiting
 We encourage members to share open job postings and we have a #jobs channel specifically for this purpose. Re-posting across multiple channels, or requesting re-posts in private channels is actively discouraged. We also support member-to-member recommendations. 
